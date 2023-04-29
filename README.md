@@ -1,3 +1,3 @@
 # thief-detection
-just follow this video for looking what it can do
-https://youtu.be/7U1WNV0caxw
+#output
+![img](https://user-images.githubusercontent.com/77968722/235314156-56409d98-479e-420d-9f4b-74644f837aab.png)
